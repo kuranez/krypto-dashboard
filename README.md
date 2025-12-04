@@ -2,6 +2,8 @@
 
 Simple finance dashboard to track and compare cryptocurrency prices written in Python. 
 
+**New Project** (based on this one) https://github.com/kuranez/krypto-dashboard-webapp
+
 **Update:** 
 **Complete overhaul in v1.2!**
 - Extensive Jupyter Notebook with full documentation.
